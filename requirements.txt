@@ -1,0 +1,7 @@
+langchain==0.1.13
+transformers
+sentence-transformers
+kor
+huggingface_hub==0.15.0
+pydantic
+python-dotenv
