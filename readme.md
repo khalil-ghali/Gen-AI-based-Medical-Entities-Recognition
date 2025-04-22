@@ -17,7 +17,7 @@ This repository provides a solution for extracting medical entities from text us
    cd gen-ai-medical-entities-recognition
    ```
 
-## How to Run
+## How to Run the Script
 
 Follow these steps to run the repository:
 
